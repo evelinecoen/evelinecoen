@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, my name is Eveline</h1>
 <h3 align="center">Full-stack developer with a background in eCommerce and marketing</h3>
 
-<p align="center">  🌱 I’m currently learning Typescript, CS50 introduction to CS </p>
+<p align="center">  🌱 I’m currently learning: Typescript, CS50 introduction to CS </p>
 
-<p align="center">  📫 How to reach me eveline.coenegrachts@gmail.com</p>
+<p align="center">  📫 How to reach me: eveline.coenegrachts@gmail.com</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
